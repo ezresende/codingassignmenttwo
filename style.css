@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color:#d1e3fa;
+color: #030101;
+margin-top:0;
+width: 100%;
+border-radius: 0;
+}
+
+#booklogo {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 200;
+    color: #111d2b;
+    text-align:left;
+    padding: 18px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+body {
+	background-color: #000000;
+	color: rgb(0, 0, 0);
+}
+
+.glyphicon {
+	font-size: 25px;
+	color:#000000; 
+   
+}
+
+.center {
+	width: 90%;
+	background-color:#002655;
+
+}
+.container
+{
+	background-color:#d1e3fa;
+}
+.text-center {
+    font-family: Arial, Helvetica, sans-serif;
+	font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.subtitulo {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+
+#donquijote {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#i {
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+h1 {
+    color: #ffffff;
+
+}
+
+h2 {
+	text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+#myNavbar ul li a {
+	color:#000000;
+}
+
+.navbar-brand{
+font-size: 30px;	
+}
